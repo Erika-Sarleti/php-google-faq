@@ -1,0 +1,22 @@
+*{
+    /* margin: 0; */
+    padding: 0;
+    box-sizing: border-box;
+}
+html{
+    font-family: sans-serif;
+    width: 60%;
+    margin: 0 auto;
+}
+.question{
+    padding: 1.5em 0;
+}
+li{
+    margin: 1em;
+    padding-left: 16px;
+    line-height: 24px;
+    padding-top: 12px;
+}
+.nested{
+    margin-left: 1em ;
+}
